@@ -1,0 +1,22 @@
+{
+  "name": "elearning",
+  "version": "1.0.0",
+  "description": "all files releated to online learning web app are stored here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NileshM10/elearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NileshM10/elearning/issues"
+  },
+  "homepage": "https://github.com/NileshM10/elearning#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
